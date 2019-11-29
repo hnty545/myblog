@@ -200,7 +200,7 @@ links_settings:
   layout: block
 
 links:
-  #Title: http://yoursite.com
+  Baidu: http://baidu.com
   Feed: /atom.xml
   SiteMap: /sitemap.xml
 
