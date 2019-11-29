@@ -9,3 +9,5 @@ run/
 yarn.lock
 yarn-error.log
 .vscode
+.deploy_git
+public
